@@ -19,6 +19,10 @@ class ViewController: UIViewController {
 
     @IBAction func randomBtn(_ sender: Any) {
         
+        // Swift 4.2 revamed the random number code, more simplfied
+        // number range 1 to 256
+        let randomNumber = Int.random(in: 1...256)
+        numberLabel.text = String(randomNumber)
         
     }
     
