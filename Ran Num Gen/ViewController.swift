@@ -9,12 +9,18 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var numberLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
 
-
+    @IBAction func randomBtn(_ sender: Any) {
+        
+        
+    }
+    
 }
 
