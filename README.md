@@ -8,7 +8,6 @@ They are greeted with a orange background with a large number on top in Green an
 The user clicks the 'Random Number' button and a random number is generated from 1 to 256. Each time the button is clicked
 another number is generated. In this demo it uses a new simpler random number generator option in Swift 4.2.
 
-Coming soon:
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
